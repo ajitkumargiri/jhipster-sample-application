@@ -1,5 +1,6 @@
 {
   "applications": "*",
+  "changelogDate": "20230920140104",
   "entityTableName": "country",
   "fields": [
     {
