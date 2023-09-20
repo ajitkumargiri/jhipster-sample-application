@@ -1,5 +1,6 @@
 {
   "applications": "*",
+  "changelogDate": "20230920125331",
   "entityTableName": "region",
   "fields": [
     {
@@ -9,5 +10,6 @@
   ],
   "name": "Region",
   "relationships": [],
+  "searchEngine": "no",
   "service": "serviceImpl"
 }
