@@ -1,5 +1,6 @@
 {
   "applications": "*",
+  "changelogDate": "20230920125631",
   "entityTableName": "task",
   "fields": [
     {
@@ -22,5 +23,6 @@
       "relationshipType": "many-to-many"
     }
   ],
+  "searchEngine": "no",
   "service": "serviceImpl"
 }
